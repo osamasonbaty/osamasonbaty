@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+:mortar_board: I'm a fresh Engineering graduate who is interested in finding solutions using data.
 <!--
 **osamasonbaty/osamasonbaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
